@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "__tuple": "cpp",
+        "array": "cpp",
+        "charconv": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp",
+        "chrono": "cpp",
+        "compare": "cpp",
+        "cstddef": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "map": "cpp",
+        "list": "cpp",
+        "format": "cpp"
+    }
+}
